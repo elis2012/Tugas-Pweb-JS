@@ -1,1 +1,0 @@
-alert('Selamat Datang di Lakuin Yuks!')
